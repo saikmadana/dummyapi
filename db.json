@@ -2,7 +2,7 @@
   "rooms": [
   {
       "id": 0,
-      "pic": "https://picsum.photos/400/300",
+      "picture": "https://picsum.photos/400/300",
       "rent": 8000,
       "type": "",
       "sharing": 3,
@@ -10,7 +10,7 @@
   },
   {
       "id": 1,
-      "pic": "https://picsum.photos/400/300",
+      "picture": "https://picsum.photos/400/300",
       "rent": 8000,
       "type": "",
       "sharing": 4,
@@ -18,7 +18,7 @@
   },
   {
       "id": 2,
-      "pic": "https://picsum.photos/400/300",
+      "picture": "https://picsum.photos/400/300",
       "rent": 8000,
       "type": "",
       "sharing": 5,
