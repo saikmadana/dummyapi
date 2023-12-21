@@ -23,62 +23,6 @@
       "type": "",
       "sharing": 5,
       "desc": "Fully furnished"
-  },
-  {
-      "id": 3,
-      "pic": "https://picsum.photos/400/300",
-      "rent": 8000,
-      "type": "",
-      "sharing": 2,
-      "desc": "Fully furnished"
-  },
-  {
-      "id": 4,
-      "pic": "https://picsum.photos/400/300",
-      "rent": 8000,
-      "type": "",
-      "sharing": 3,
-      "desc": "Fully furnished"
-  },
-  {
-      "id": 5,
-      "pic": "https://picsum.photos/400/300",
-      "rent": 8000,
-      "type": "",
-      "sharing": 2,
-      "desc": "Fully furnished"
-  },
-  {
-      "id": 6,
-      "pic": "https://picsum.photos/400/300",
-      "rent": 8000,
-      "type": "",
-      "sharing": 1,
-      "desc": "Fully furnished"
-  },
-  {
-      "id": 7,
-      "pic": "https://picsum.photos/400/300",
-      "rent": 8000,
-      "type": "",
-      "sharing": 1,
-      "desc": "Fully furnished"
-  },
-  {
-      "id": 8,
-      "pic": "https://picsum.photos/400/300",
-      "rent": 8000,
-      "type": "",
-      "sharing": 4,
-      "desc": "Fully furnished"
-  },
-  {
-      "id": 9,
-      "pic": "https://picsum.photos/400/300",
-      "rent": 8000,
-      "type": "",
-      "sharing": 4,
-      "desc": "Fully furnished"
   }
 ],
   "tenants": [
@@ -109,76 +53,6 @@
         "mobile": 7317738138,
         "email": "test@gmail.com",
         "room": 17,
-        "joinedDate": "22-Aug-2023",
-        "picture": "https://picsum.photos/50/50"
-    },
-    {
-        "name": "",
-        "designation": "Software Engineer",
-        "city": "Hyderabad",
-        "mobile": 7384325277,
-        "email": "test@gmail.com",
-        "room": 15,
-        "joinedDate": "22-Aug-2023",
-        "picture": "https://picsum.photos/50/50"
-    },
-    {
-        "name": "",
-        "designation": "Software Engineer",
-        "city": "Hyderabad",
-        "mobile": 9751687198,
-        "email": "test@gmail.com",
-        "room": 6,
-        "joinedDate": "22-Aug-2023",
-        "picture": "https://picsum.photos/50/50"
-    },
-    {
-        "name": "",
-        "designation": "Software Engineer",
-        "city": "Hyderabad",
-        "mobile": 8411874323,
-        "email": "test@gmail.com",
-        "room": 15,
-        "joinedDate": "22-Aug-2023",
-        "picture": "https://picsum.photos/50/50"
-    },
-    {
-        "name": "",
-        "designation": "Software Engineer",
-        "city": "Hyderabad",
-        "mobile": 7108333240,
-        "email": "test@gmail.com",
-        "room": 8,
-        "joinedDate": "22-Aug-2023",
-        "picture": "https://picsum.photos/50/50"
-    },
-    {
-        "name": "",
-        "designation": "Software Engineer",
-        "city": "Hyderabad",
-        "mobile": 9445799660,
-        "email": "test@gmail.com",
-        "room": 20,
-        "joinedDate": "22-Aug-2023",
-        "picture": "https://picsum.photos/50/50"
-    },
-    {
-        "name": "",
-        "designation": "Software Engineer",
-        "city": "Hyderabad",
-        "mobile": 7257266886,
-        "email": "test@gmail.com",
-        "room": 9,
-        "joinedDate": "22-Aug-2023",
-        "picture": "https://picsum.photos/50/50"
-    },
-    {
-        "name": "",
-        "designation": "Software Engineer",
-        "city": "Hyderabad",
-        "mobile": 7227607806,
-        "email": "test@gmail.com",
-        "room": 4,
         "joinedDate": "22-Aug-2023",
         "picture": "https://picsum.photos/50/50"
     }
