@@ -27,7 +27,7 @@
 ],
   "tenants": [
     {
-        "name": "",
+        "name": "Sai Kumar",
         "designation": "Software Engineer",
         "city": "Hyderabad",
         "phone": 8087300234,
@@ -37,7 +37,7 @@
         "picture": "https://picsum.photos/50/50"
     },
     {
-        "name": "",
+        "name": "Rajitha",
         "designation": "Software Engineer",
         "city": "Hyderabad",
         "phone": 8039903603,
@@ -47,7 +47,7 @@
         "picture": "https://picsum.photos/50/50"
     },
     {
-        "name": "",
+        "name": "Sagar R",
         "designation": "Software Engineer",
         "city": "Hyderabad",
         "phone": 7317738138,
